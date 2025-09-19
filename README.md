@@ -21,8 +21,8 @@ A3: 请先尝试重启设备，如果问题仍然存在，请联系我们的支�
 
 ## 📩 联系方式
 - 邮箱: [a774773215@qq.com](mailto:a774773215@qq.com)  
-- 官方网站: [https://zxfgll.github.io/shortcut-icons/](https://zxfgll.github.io/shortcut-icons/)
-- 技术支持页面（App Store 填写用）: [https://zxfgll.github.io/shortcut-icons/](https://zxfgll.github.io/shortcut-icons/)  
+- 官方网站: [https://zxfgll.github.io/Desktop-shortcut/](https://zxfgll.github.io/Desktop-shortcut/)
+- 技术支持页面（App Store 填写用）: [https://zxfgll.github.io/Desktop-shortcut/](https://zxfgll.github.io/Desktop-shortcut/)  
 
 ---
 
